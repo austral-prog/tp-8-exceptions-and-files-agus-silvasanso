@@ -52,16 +52,6 @@ def read_sales(filename):
 
 
 
-
-
-
-
-
-
-
-
-
-
 def process_sales(data):
     """
     Para cada producto del diccionario, imprime en el orden natural del dict:
